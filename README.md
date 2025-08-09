@@ -43,8 +43,8 @@ Um aplicativo desktop com múltiplas ferramentas úteis desenvolvido em Python c
 ### Instalação
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/pacote-ferramentas.git
-cd pacote-ferramentas
+git clone https://github.com/Mateus-SBatista/Pacote_de_Ferramentas.git
+cd Pacote_de_Ferramentas
 ```
 
 2. (Opcional) Crie um ambiente virtual:
@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 ### Execução
 ```bash
-python main.py
+python TestPyPro.py
 ```
 
 ## 🛠️ Tecnologias Utilizadas
