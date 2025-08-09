@@ -1,4 +1,4 @@
-# 📦 Pacote de Ferramentas Úteis
+# 📦 Pacote de Ferramentas
 
 Um aplicativo desktop com múltiplas ferramentas úteis desenvolvido em Python com Tkinter.
 
